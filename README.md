@@ -1,5 +1,12 @@
+## How to Install
+Take the `cstrike` folder in the 7-zip file and extract it to the directory you installed Counter-Strike: Source (for example: `C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source`)
+
 ## What is this?
-This is a replacement of all the human models in GFL ZE CS:S (as of October 15, 2023). It's a lot easier to just see plain models over the enemies (especially when I use **transparent models** and **colored viewmodel weapons**).
+This is a replacement of all the human models in GFL ZE CS:S (as of October 15, 2023). It's a lot easier to just see plain models over the enemies (especially when I use **transparent models** and **colored viewmodel weapons**). It also turns zombies into the arctic terrorist model. This will make it a lot easier to track zombies.
+
+This model replacement should not conflict with the other arctic T model as I generated a separate Arctic T model and material for Zombies only (which the model targets).
+
+## Do note that this does not come with my colored weapon skins on: https://github.com/ovY9jkhTEUpllGPJRrKU/CS-S-Custom-Scripts
 
 ## Humans (Folders relative to `cstrike/download/models/player`):
 ![image](images/ct.jpg)
@@ -95,7 +102,7 @@ Gandalf
     - slow/amberlyn/lotr/gandalf
 ```
 
-## Zombies
+## Zombies (Folders relative to `cstrike/download/models/player`):
 ![image](images/t.jpg)
 ```
 Default Zombie
